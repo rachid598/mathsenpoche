@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<ARBRE>
+  <NIVEAU>4</NIVEAU>
+  <GEOMETRIE>
+    <CHAPITRE>
+      <TITRE>Triangle rectangle</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>geometrie/chap1/serie1/index.html</URL>
+        <CODE>4G1s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Cercle</TITRE>
+        <URL>geometrie/chap1/serie2/index.html</URL>
+        <CODE>4G1s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Th&#xE9;or&#xE8;me de Pythagore</TITRE>
+        <URL>geometrie/chap1/serie3/index.html</URL>
+        <CODE>4G1s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>R&#xE9;ciproque</TITRE>
+        <URL>geometrie/chap1/serie4/index.html</URL>
+        <CODE>4G1s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap1/serie5/index.html</URL>
+        <CODE>4G1s5</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Triangles et parall&#xE8;les</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>geometrie/chap2/serie1/index.html</URL>
+        <CODE>4G2s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Th&#xE9;or&#xE8;mes des milieux</TITRE>
+        <URL>geometrie/chap2/serie2/index.html</URL>
+        <CODE>4G2s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Triangles et parall&#xE8;les</TITRE>
+        <URL>geometrie/chap2/serie3/index.html</URL>
+        <CODE>4G2s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Agrandir, r&#xE9;duire</TITRE>
+        <URL>geometrie/chap2/serie4/index.html</URL>
+        <CODE>4G2s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap2/serie5/index.html</URL>
+        <CODE>4G2s5</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Distances et tangentes</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>geometrie/chap3/serie1/index.html</URL>
+        <CODE>4G3s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Distance</TITRE>
+        <URL>geometrie/chap3/serie2/index.html</URL>
+        <CODE>4G3s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Triangle et cercle</TITRE>
+        <URL>geometrie/chap3/serie3/index.html</URL>
+        <CODE>4G3s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Tangente</TITRE>
+        <URL>geometrie/chap3/serie4/index.html</URL>
+        <CODE>4G3s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Calculs</TITRE>
+        <URL>geometrie/chap3/serie5/index.html</URL>
+        <CODE>4G3s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap3/serie6/index.html</URL>
+        <CODE>4G3s6</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Cosinus</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>geometrie/chap4/serie1/index.html</URL>
+        <CODE>4G4s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>D&#xE9;finition</TITRE>
+        <URL>geometrie/chap4/serie2/index.html</URL>
+        <CODE>4G4s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Calculs</TITRE>
+        <URL>geometrie/chap4/serie3/index.html</URL>
+        <CODE>4G4s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Probl&#xE8;mes</TITRE>
+        <URL>geometrie/chap4/serie4/index.html</URL>
+        <CODE>4G4s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap4/serie5/index.html</URL>
+        <CODE>4G4s5</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Pyramides et c&#xF4;nes</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>geometrie/chap5/serie1/index.html</URL>
+        <CODE>4G5s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Patrons</TITRE>
+        <URL>geometrie/chap5/serie2/index.html</URL>
+        <CODE>4G5s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Aires</TITRE>
+        <URL>geometrie/chap5/serie3/index.html</URL>
+        <CODE>4G5s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Volumes</TITRE>
+        <URL>geometrie/chap5/serie4/index.html</URL>
+        <CODE>4G5s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Calculs</TITRE>
+        <URL>geometrie/chap5/serie5/index.html</URL>
+        <CODE>4G5s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap5/serie6/index.html</URL>
+        <CODE>4G5s6</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Compl&#xE9;ments</TITRE>
+      <SERIE>
+        <TITRE>Des outils pour d&#xE9;montrer</TITRE>
+        <URL>geometrie/chap6/serie1/index.html</URL>
+        <CODE>4G6s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Droites remarquables (synth&#xE8;se)</TITRE>
+        <URL>geometrie/chap6/serie2/index.html</URL>
+        <CODE>4G6s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Constructions</TITRE>
+        <URL>geometrie/chap6/serie3/index.html</URL>
+        <CODE>4G6s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>D&#xE9;monstrations</TITRE>
+        <URL>geometrie/chap6/serie4/index.html</URL>
+        <CODE>4G6s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>geometrie/chap6/serie5/index.html</URL>
+        <CODE>4G6s5</CODE>
+      </SERIE>
+    </CHAPITRE>
+  </GEOMETRIE>
+  <NUMERIQUE>
+    <CHAPITRE>
+      <TITRE>Relatifs</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap1/serie1/index.html</URL>
+        <CODE>4N1s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Multiplication</TITRE>
+        <URL>numerique/chap1/serie2/index.html</URL>
+        <CODE>4N1s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Division</TITRE>
+        <URL>numerique/chap1/serie3/index.html</URL>
+        <CODE>4N1s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Calculs</TITRE>
+        <URL>numerique/chap1/serie4/index.html</URL>
+        <CODE>4N1s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap1/serie5/index.html</URL>
+        <CODE>4N1s5</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Fractions</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap2/serie1/index.html</URL>
+        <CODE>4N2s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Comparaison</TITRE>
+        <URL>numerique/chap2/serie2/index.html</URL>
+        <CODE>4N2s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Additions, soustractions</TITRE>
+        <URL>numerique/chap2/serie3/index.html</URL>
+        <CODE>4N2s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Produits</TITRE>
+        <URL>numerique/chap2/serie4/index.html</URL>
+        <CODE>4N2s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Quotients</TITRE>
+        <URL>numerique/chap2/serie5/index.html</URL>
+        <CODE>4N2s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Synth&#xE8;se et probl&#xE8;mes</TITRE>
+        <URL>numerique/chap2/serie6/index.html</URL>
+        <CODE>4N2s6</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap2/serie7/index.html</URL>
+        <CODE>4N2s7</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Puissances</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap3/serie1/index.html</URL>
+        <CODE>4N3s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Notation, calculs</TITRE>
+        <URL>numerique/chap3/serie2/index.html</URL>
+        <CODE>4N3s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Calcul mental</TITRE>
+        <URL>numerique/chap3/serie3/index.html</URL>
+        <CODE>4N3s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Formules (d&#xE9;couverte)</TITRE>
+        <URL>numerique/chap3/serie4/index.html</URL>
+        <CODE>4N3s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Formules (application)</TITRE>
+        <URL>numerique/chap3/serie5/index.html</URL>
+        <CODE>4N3s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Ecriture x10^n</TITRE>
+        <URL>numerique/chap3/serie6/index.html</URL>
+        <CODE>4N3s6</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap3/serie7/index.html</URL>
+        <CODE>4N3s7</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Calcul litt&#xE9;ral</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap4/serie1/index.html</URL>
+        <CODE>4N4s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>R&#xE9;duction</TITRE>
+        <URL>numerique/chap4/serie2/index.html</URL>
+        <CODE>4N4s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Distributivit&#xE9;</TITRE>
+        <URL>numerique/chap4/serie3/index.html</URL>
+        <CODE>4N4s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>D&#xE9;velopper, r&#xE9;duire</TITRE>
+        <URL>numerique/chap4/serie4/index.html</URL>
+        <CODE>4N4s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Probl&#xE8;mes</TITRE>
+        <URL>numerique/chap4/serie5/index.html</URL>
+        <CODE>4N4s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap4/serie6/index.html</URL>
+        <CODE>4N4s6</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Equations, ordre</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap5/serie1/index.html</URL>
+        <CODE>4N5s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>M&#xE9;thodes</TITRE>
+        <URL>numerique/chap5/serie2/index.html</URL>
+        <CODE>4N5s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>R&#xE9;solution</TITRE>
+        <URL>numerique/chap5/serie3/index.html</URL>
+        <CODE>4N5s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Probl&#xE8;mes</TITRE>
+        <URL>numerique/chap5/serie4/index.html</URL>
+        <CODE>4N5s4</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Ordre</TITRE>
+        <URL>numerique/chap5/serie5/index.html</URL>
+        <CODE>4N5s5</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap5/serie6/index.html</URL>
+        <CODE>4N5s6</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Proportionnalit&#xE9;</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap6/serie1/index.html</URL>
+        <CODE>4N6s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pourcentages</TITRE>
+        <URL>numerique/chap6/serie2/index.html</URL>
+        <CODE>4N6s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Vitesse</TITRE>
+        <URL>numerique/chap6/serie3/index.html</URL>
+        <CODE>4N6s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap6/serie4/index.html</URL>
+        <CODE>4N6s4</CODE>
+      </SERIE>
+    </CHAPITRE>
+    <CHAPITRE>
+      <TITRE>Statistiques</TITRE>
+      <SERIE>
+        <TITRE>Prendre un bon d&#xE9;part</TITRE>
+        <URL>numerique/chap7/serie1/index.html</URL>
+        <CODE>4N7s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Fr&#xE9;quences</TITRE>
+        <URL>numerique/chap7/serie2/index.html</URL>
+        <CODE>4N7s2</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Moyenne</TITRE>
+        <URL>numerique/chap7/serie3/index.html</URL>
+        <CODE>4N7s3</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>Pour aller plus loin ...</TITRE>
+        <URL>numerique/chap7/serie4/index.html</URL>
+        <CODE>4N7s4</CODE>
+      </SERIE>
+    </CHAPITRE>
+  </NUMERIQUE>
+  <G0>
+    <CHAPITRE>
+      <TITRE>Didacticiel</TITRE>
+      <SERIE>
+        <TITRE>S'exercer avec les instruments</TITRE>
+        <URL>geometrie/chap0/serie1/index.html</URL>
+        <CODE>4G0s1</CODE>
+      </SERIE>
+      <SERIE>
+        <TITRE>S'exercer en Num&#xE9;rique</TITRE>
+        <URL>geometrie/chap0/serie2/index.html</URL>
+        <CODE>4G0s2</CODE>
+      </SERIE>
+    </CHAPITRE>
+  </G0>
+</ARBRE>
